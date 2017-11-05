@@ -1,0 +1,39 @@
+div#original {
+    height: 100px;
+    width: 100%;
+    background-color: darkgreen; 
+        
+}
+div.div1 {
+    height: 100px;
+    width: 50%;
+    float: left;    
+} 
+
+div#div2 {
+    background-color: blue;  
+}
+
+div#div1 {
+    background-color: red;  
+}
+
+dive#copycat {
+    height: 100px;
+    width: 100%;
+    background-color: antiquewhite
+}
+div.div11 {
+    height: 100px;
+    width: 33.3%;
+    float: left
+}
+div#div11 {
+    background-color: green;
+}
+div#div22 {
+    background-color: red;
+}
+div#div33 {
+    background-color: yellow;
+}
